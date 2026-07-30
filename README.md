@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd-year B.Tech student with a strong interest in Data Structures, Algorithms, and problem-solving.<br>Currently building a solid DSA foundation while preparing to dive into AI & Machine Learning.<br>Open to learning, collaborating, and exploring new technologies.
+3rd-year B.Tech student with a strong interest in Data Structures, Algorithms, and problem-solving.<br>Currently building a solid DSA foundation while preparing to dive into AI & Machine Learning.<br>Open to learning, collaborating, and exploring new technologies.
 
 
 ## 🌐 Socials:
